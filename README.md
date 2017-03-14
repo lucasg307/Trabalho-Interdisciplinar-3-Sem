@@ -9,11 +9,12 @@ O trabalho terá como base um hotel fazendo onde será criado toda a automatiza�
 processo de cadastro de clientes, funcionários, serviços, quartos e estoque.
 
 Instiruição de Ensino: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
-Professores: Gustavo Bartz Guedes (BD2)
-             Leandro Ledel (LP2)
+
+Professores: André Constantino da Silva (IHC)
              Daniela Marques (AOO)
-             André Constantino da Silva (IHC)
-             
+             Gustavo Bartz Guedes (BD2)
+             Leandro Ledel (LP2)
+                          
 Alunos: Danilo Xavier
         Lucas Gabriel
         Lucas Ramos
