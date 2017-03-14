@@ -1,9 +1,9 @@
 # Trabalho-Interdisciplinar-3-Sem
-# IFSP HTO - Trabalho interdisciplinar (BD2, LP2, AOO e IHC)
-# 14/03/2017
+# IFSP HTO - Trabalho interdisciplinar (BD2, LP3, AOO e IHC)
+ 14/03/2017
 
 Este trabalho tem como finalidade colocar em prática os conhecimentos adquiridos em
-Banco de Dados II, Linguagem de Programação II, Análise Orientada a Objetos e Interação
+Banco de Dados II, Linguagem de Programação III, Análise Orientada a Objetos e Interação
 Humano Computador.
 O trabalho terá como base um hotel fazendo onde será criado toda a automatização do 
 processo de cadastro de clientes, funcionários, serviços, quartos e estoque.
@@ -13,7 +13,7 @@ Instiruição de Ensino: Instituto Federal de Educação, Ciência e Tecnologia 
 Professores: André Constantino da Silva (IHC)
              Daniela Marques (AOO)
              Gustavo Bartz Guedes (BD2)
-             Leandro Ledel (LP2)
+             Leandro Ledel (LP3)
                           
 Alunos: Danilo Xavier
         Lucas Gabriel
